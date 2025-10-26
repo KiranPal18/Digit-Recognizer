@@ -1,7 +1,8 @@
-# Digit Recognizer
+# Implementation of CNN Models from Scratc
 
-Digit Recognizer is a PyTorch-based project for handwritten digit classification.  
-It demonstrates how to train and evaluate both a simple CNN and a ResNet-based model on the Kaggle Digit Recognizer dataset.
+This project presents an implementation of a Convolutional Neural Network (CNN) developed entirely from scratch using PyTorch for the task of handwritten digit classification.  
+The model is trained and evaluated on the [Kaggle Digit Recognizer dataset](https://www.kaggle.com/competitions/digit-recognizer), which consists of grayscale images of digits (0–9).  
+The primary objective of this work is to understand the fundamental concepts of CNN architecture, training, and evaluation without relying on pre-trained networks.
 
 ---
 
