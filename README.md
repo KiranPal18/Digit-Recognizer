@@ -17,8 +17,8 @@ It demonstrates how to train and evaluate both a simple CNN and a ResNet-based m
 ---
 
 ## Implementations
-1. **Simple_CNN.ipnb** – SImple and Custom CNN implementation.  
-2. **ResNet.ipnb** – ResNet-based model that improves feature learning and achieves higher accuracy.
+1. **Simple_CNN.ipynb** – SImple and Custom CNN implementation.  
+2. **ResNet.ipynb** – ResNet-based model that improves feature learning and achieves higher accuracy.
 
 ---
 
